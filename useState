@@ -1,0 +1,1 @@
+const [variable, function] = useState("initial value") // setState is used to update variable values without losing them throw reloads.
