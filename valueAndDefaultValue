@@ -1,0 +1,2 @@
+<input value={something}/> // This is will not update
+<input defaultValue={something}/> // This input will update it's own value based on everytime something value changes. **key attribute may be necessary
